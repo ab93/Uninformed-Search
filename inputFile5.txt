@@ -1,0 +1,44 @@
+3
+DFS
+A
+G
+B C D E F G H I
+7
+A B 12 0
+A C 6 0
+B D 5 0
+B E 6 0
+C F 77 0
+C G 87 0
+D H 78 0
+0
+
+UCS
+S
+G1 G2
+A B C D
+8
+S A 2 0
+S B 5 0
+S C 4 0
+S D 3 0
+B A 2 0
+A G1 3 1 2-5
+B G1 4 0
+C G2 6 0
+0 
+
+UCS
+S
+G1 G2
+A B C D
+8
+S A 25 0
+S B 35 0
+S C 30 0
+S D 20 0
+B A 7 0
+A G1 5 1 1-5
+B G1 8 0
+C G2 6 0
+0 
